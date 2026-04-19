@@ -88,13 +88,13 @@ body {
 @media (max-width: 768px) {
   .animated-container {
     flex-direction: column;
-    font-size: 1.8rem;
-    gap: 10px;
+    font-size: 2.2rem;
+    gap: 12px;
   }
 }
 
 @media (max-width: 480px) {
   .animated-container {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
   }
 }
